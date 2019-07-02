@@ -1,8 +1,5 @@
-<<<<<<< Updated upstream
 you are great!
-=======
 you are great!
 111
 222
 333
->>>>>>> Stashed changes

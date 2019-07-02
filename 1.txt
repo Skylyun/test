@@ -1,7 +1,3 @@
 new
 222
 444
-<<<<<<< Updated upstream
-=======
-333
->>>>>>> Stashed changes
